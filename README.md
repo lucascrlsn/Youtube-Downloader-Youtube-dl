@@ -19,7 +19,7 @@ pip3 install speechrecognition
 ```
 
 ## Notes:
-** A .pcl location should be specified for Punctuator and also the ffmpeg location included as 
+A .pcl location should be specified for Punctuator and also the ffmpeg location included as 
 a var and properly installed on your device with brew. 
 
 What's next?
